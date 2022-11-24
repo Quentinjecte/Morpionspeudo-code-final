@@ -121,6 +121,7 @@
 #         7: [2, 0], 8: [2, 1], 9: [2, 2],
 #     }
 
+
 #     efectuer la fonction clean()
 #     afficher(f'Tour joueur [{j_choice}]')
 #     affiche(PLATEAU, o_choice, j_choice)
